@@ -1,3 +1,7 @@
+## 3.2.1
+
+- Text is now vertically centered when `large` is set true.
+
 ## 3.2.0
 
 - Replaced old typography with new one. This changes could have changed the components design. (#1796 and #1750)
